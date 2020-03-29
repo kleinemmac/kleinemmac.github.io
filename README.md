@@ -1,4 +1,4 @@
-# portfolio2
+# Primary Portfolio
 This is my second (and final) attempt at a portfolio page. I wanted something much more minimalist and much less 90's teenage blogger.
 
 ## Purpose:
